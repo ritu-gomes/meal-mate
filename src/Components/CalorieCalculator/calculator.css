@@ -1,0 +1,34 @@
+/* CalorieCalculator.css */
+
+  .calculator label{
+    font-weight: 700;
+  }
+
+  /* Input styles */
+.calculator input[type="number"], select {
+    width: 100%;
+    padding: 8px 12px;
+  }
+  
+.calculator.input[type="radio"] {
+    width: 5%;
+  }
+  
+  /* Button styles */
+.calculator button {
+    width: 100%;
+  }
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .animate-fadeIn {
+    animation: fadeIn 0.5s ease-in-out;
+  }
+  
+  

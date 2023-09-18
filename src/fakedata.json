@@ -1,0 +1,118 @@
+
+    [
+        {
+            "id": "1",
+            "image": "./images/salmon.jpg",
+            "name": "Balanced Diet (1800 Calories)",
+            "description": "A well-rounded diet with a mix of protein, carbohydrates, and fats.",
+            "breakfast": "Scrambled eggs with whole-grain toast",
+            "snacks1": "Greek yogurt with berries",
+            "lunch": "Grilled chicken salad",
+            "snacks2": "Mixed nuts",
+            "dinner": "Baked salmon with quinoa and vegetables",
+            "weeklyPrice": 3000,
+            "monthlyPrice": 10000,
+            "totalCalories": 1800
+
+          },
+        {
+            "id": "2",  
+            "image": "./images/brocmeat.jpg",
+            "name": "Low Carb Diet (1600 Calories)",
+            "description": "A diet that restricts carbohydrate intake and focuses on protein and healthy fats.",
+            "breakfast": "Omelette with spinach and feta cheese",
+            "snacks1": "Almonds and cheese",
+            "lunch": "Grilled steak with broccoli",
+            "snacks2": "Cucumber slices with hummus",
+            "dinner": "Zucchini noodles with pesto and grilled chicken",
+            "weeklyPrice": 2500,
+            "monthlyPrice": 9000,
+            "totalCalories": 1600
+          },
+        {
+            "id": "3",
+            "image": "./images/ricemeal1.jpg",
+            "name": "Vegetarian Diet (1500 Calories)",
+            "description": "A plant-based diet with a variety of vegetables, legumes, and grains.",
+            "breakfast": "Smoothie with spinach, banana, and almond milk",
+            "snacks1": "Hummus with carrot sticks",
+            "lunch": "Chickpea and vegetable stir-fry",
+            "snacks2": "Trail mix",
+            "dinner": "Lentil curry with brown rice",
+            "weeklyPrice": 2000,
+            "monthlyPrice": 8500,
+            "totalCalories": 1500
+          },
+        {
+          "id": "4",  
+          "image": "./images/salad2.jpg",
+            "name": "High Protein Diet (1700 Calories)",
+            "description": "A diet focused on consuming ample amounts of protein for muscle building and satiety.",
+            "breakfast": "Greek yogurt with protein powder and nuts",
+            "snacks1": "Cottage cheese and berries",
+            "lunch": "Grilled chicken with quinoa and mixed greens",
+            "snacks2": "Protein bar",
+            "dinner": "Tofu and vegetable stir-fry",
+            "weeklyPrice": 2500,
+            "monthlyPrice": 9000,
+            "totalCalories": 1700
+          },
+        {
+          "id": "5",  
+          "image": "./images/avocadotoast.jpg",
+            "name": "Mediterranean Diet (1600 Calories)",
+            "description": "A diet inspired by Mediterranean cuisine, rich in vegetables, fruits, and olive oil.",
+            "breakfast": "Whole-grain toast with avocado",
+            "snacks1": "Mixed nuts and dried fruits",
+            "lunch": "Greek salad with olives and feta cheese",
+            "snacks2": "Fruit salad",
+            "dinner": "Grilled fish with roasted vegetables",
+            "weeklyPrice": 3000,
+            "monthlyPrice": 10000,
+            "totalCalories": 1600
+          },
+        {
+          "id": "6",  
+          "image": "./images/oatmeal.jpg",
+            "name": "Moderate Calorie Diet (2000 Calories)",
+            "description": "A balanced diet providing moderate calorie intake for various nutritional needs.",
+            "breakfast": "Whole-grain cereal with milk",
+            "snacks1": "Apple slices with peanut butter",
+            "lunch": "Turkey and avocado wrap",
+            "snacks2": "Yogurt with granola",
+            "dinner": "Baked chicken with sweet potato and vegetables",
+            "weeklyPrice": 4000,
+            "monthlyPrice": 15000,
+            "totalCalories": 2000
+          },
+        {
+          "id": "7",  
+          "image": "./images/salad1.jpg",
+            "name": "Active Lifestyle Diet (2300 Calories)",
+            "description": "A diet suitable for an active lifestyle with higher energy requirements.",
+            "breakfast": "Oatmeal with fruits and nuts",
+            "snacks1": "Trail mix with dried fruits",
+            "lunch": "Quinoa salad with grilled vegetables and chicken",
+            "snacks2": "Energy bar",
+            "dinner": "Salmon with brown rice and steamed broccoli",
+            "weeklyPrice": 5000,
+            "monthlyPrice": 17000,
+            "totalCalories": 2300
+          },
+        {
+          "id": "8",  
+          "image": "./images/shake.jpg",
+            "name": "High Energy Diet (2500 Calories)",
+            "description": "A diet providing higher energy intake for individuals with intense physical activities.",
+            "breakfast": "Eggs, whole-grain toast, and avocado",
+            "snacks1": "Banana with almond butter",
+            "lunch": "Grilled steak with potatoes and mixed greens",
+            "snacks2": "Protein shake",
+            "dinner": "Pasta with marinara sauce and lean ground turkey",
+            "weeklyPrice": 5500,
+            "monthlyPrice": 16000,
+            "totalCalories": 2500
+          }
+    ]
+
+  
